@@ -1,0 +1,20 @@
+History of JS
+-Netscape Navigator 1995 
+-Mocha
+-LiveScript --> Javascript
+ECMA SCRIPT
+ES1 --->ES6-2015-(biggest update in history of js)
+members of tc39
+official name ES6:ES2015
+now latest is 
+js is backward compaitable
+the old browser uses babel to transpile modern js to older js to support the browsers
+
+
+7 days of js
+
+
+basics,arrays,objects,functions,array methods,moreuseful things 2days
+oops 2 days
+how and dom 2 days
+oops 2 days
