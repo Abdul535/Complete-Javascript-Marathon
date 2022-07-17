@@ -25,3 +25,4 @@ async 2 days [23-24 July]
     start with small letter and use camelCase
 -variable can't start with number (var 1fname) , you can use underscore(_) or dollar($) only
 -string.length or array.length basically .length doesn't starts with zero(0) and its .length not .length() not a function at all
+-string is immutable in js every string methods [trim(),toUpperCase(),toLowerCase(),slice()] returns a new string doesn't manipulate the original
