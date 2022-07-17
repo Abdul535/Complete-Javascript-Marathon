@@ -1,0 +1,27 @@
+History of JS
+-Netscape Navigator 1995 
+-Mocha
+-LiveScript --> Javascript
+ECMA SCRIPT
+ES1 --->ES6-2015-(biggest update in history of js)
+members of tc39
+official name ES6:ES2015
+now latest is 
+js is backward compaitable
+the old browser uses babel to transpile modern js to older js to support the browsers
+
+-always write <script> inside the body and at bottom
+-use defer if writing the <scrip> in <head>
+
+******************************************************************************
+7 days of js
+basics,arrays,objects,functions,array methods,moreuseful things 2days [17 - 18 July]
+oops 2 days [19-20 July]
+how and dom 2 days [21-22 July]
+async 2 days [23-24 July]
+******************************************************************************
+-write "use strict" on 1st line to say to js that not to declare a variable like [a=45;] without let,const and var
+-convention    
+    start with small letter and use camelCase
+-variable can't start with number (var 1fname) , you can use underscore(_) or dollar($) only
+-string.length or array.length basically .length doesn't starts with zero(0) and its .length not .length() not a function at all
