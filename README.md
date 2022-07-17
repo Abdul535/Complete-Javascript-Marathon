@@ -7,4 +7,4 @@
 - OOPS 2 days [19-20 July 2022]
 - How JS works and DOM 2 days [21-22 July 2022]
 # Phase3 
-- Asyncchronous JS 2 days [23-24 July 2022]
+- Asynchronous JS 2 days [23-24 July 2022]
