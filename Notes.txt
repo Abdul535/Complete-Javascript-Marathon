@@ -38,3 +38,4 @@ async 2 days [23-24 July]
     let num = BigInt(344);
     let num = 344n;
     any operation can be done if both are BigInt only
+-Prompt always take input in string
