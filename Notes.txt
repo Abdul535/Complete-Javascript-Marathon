@@ -26,3 +26,15 @@ async 2 days [23-24 July]
 -variable can't start with number (var 1fname) , you can use underscore(_) or dollar($) only
 -string.length or array.length basically .length doesn't starts with zero(0) and its .length not .length() not a function at all
 -string is immutable in js every string methods [trim(),toUpperCase(),toLowerCase(),slice()] returns a new string doesn't manipulate the original
+-converting a number to string just concatenate with ""
+    a=88 //typeof a is 'number'
+    a=a+"" //typeof a is 'string'
+    a=String(a);
+-converting a string to number just concatenate with + 
+    a = +"34" //typeof a is 'number'
+    a=Number(a);
+-there is a bug in javascript that typeof null is object,but they didn't change bcoz every library uses like that
+-BigInt can be defined in two ways
+    let num = BigInt(344);
+    let num = 344n;
+    any operation can be done if both are BigInt only
