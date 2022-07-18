@@ -39,3 +39,9 @@ async 2 days [23-24 July]
     let num = 344n;
     any operation can be done if both are BigInt only
 -Prompt always take input in string
+-break and continue keywords
+    break exit the loop;
+    continue skip that one and continue to next iteration of loop;
+-Diff betwenn do and do while loop
+    while loop first checks the condition and then executes
+    do while loop executes then checks the condition as per 
