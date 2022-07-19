@@ -45,3 +45,7 @@ async 2 days [23-24 July]
 -Diff betwenn do and do while loop
     while loop first checks the condition and then executes
     do while loop executes then checks the condition as per 
+-Array
+    Array is an object type ---typeof ([2,4]) => 'object'
+    Array is heterogenous in nature in javascript
+    Array.isArray() -returns bool
