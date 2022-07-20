@@ -49,3 +49,21 @@ async 2 days [23-24 July]
     Array is an object type ---typeof ([2,4]) => 'object'
     Array is heterogenous in nature in javascript
     Array.isArray() -returns bool
+-Objects    
+    We can access objects using 
+    person = { name:'abd', age:21};
+    Two ways:
+        person.name
+        person['name']
+-Iteration 
+    for in loop: iterates the inner value        
+    for of loop: iterates the index value        
+
+-Iteration Object        
+    Two ways
+        for in 
+        Object.keys(<Object>) -returns all the keys
+        Object.values(<Object>) -returns all the values
+-Spread Operator
+   const newArray = [..."abc"] ==> ['a', 'b', 'c'] 
+   const newObject = { ..."abc" }; ==> {0:'a', 1:'b', 2:'c'}
