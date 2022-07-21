@@ -33,6 +33,21 @@ async 2 days [23-24 July]
 -converting a string to number just concatenate with + 
     a = +"34" //typeof a is 'number'
     a=Number(a);
+-String
+    // slice()
+    // concat()
+    // length
+    // indexOf()
+    // valueOf()
+    // toString()
+    // replace()
+    // repeat()
+    // slice()
+    // toLowerCase()
+    // toUpperCase()
+    // split()
+    // substr()
+    // trim()
 -there is a bug in javascript that typeof null is object,but they didn't change bcoz every library uses like that
 -BigInt can be defined in two ways
     let num = BigInt(344);
