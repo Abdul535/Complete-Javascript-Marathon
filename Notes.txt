@@ -34,7 +34,7 @@ async 2 days [23-24 July]
     a = +"34" //typeof a is 'number'
     a=Number(a);
 -String jump to 7.js
-    // slice()
+    /// slice()
     // concat()
     // length
     // indexOf()
