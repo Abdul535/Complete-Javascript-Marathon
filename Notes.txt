@@ -33,7 +33,7 @@ async 2 days [23-24 July]
 -converting a string to number just concatenate with + 
     a = +"34" //typeof a is 'number'
     a=Number(a);
--String
+-String jump to 7.js
     // slice()
     // concat()
     // length
