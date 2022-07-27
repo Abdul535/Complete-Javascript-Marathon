@@ -61,7 +61,7 @@ async 2 days [23-24 July]
     while loop first checks the condition and then executes
     do while loop executes then checks the condition as per 
 -Array
-    Methods in 27.js
+    all array Methods are in 27.js
     Array is an object type ---typeof ([2,4]) => 'object'
     Array is heterogenous in nature in javascript
     Array.isArray() -returns bool
